@@ -1,2 +1,2 @@
 # debugForOldIE
-一个低版本ie下的debug工具，它的ui是浮层似的，半透明的，这样即使在chrome下也有了意义，就是不回因为打开debug而占用页面的空间
+一个低版本ie下的debug工具，它的ui是浮层似的，半透明的，这样即使在chrome下也有了意义，就是不会因为打开debug而占用页面的空间
